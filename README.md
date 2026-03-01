@@ -21,8 +21,10 @@
    git clone [https://github.com/твой_логин/weather-bot.git](https://github.com/твой_логин/weather-bot.git)
 2. Установите зависимости:
     pip install -r requirements.txt
-3. Создайте файл .env в корневой папке и добавьте свои ключи:
+   
+4. Создайте файл .env в корневой папке и добавьте свои ключи:
     BOT_TOKEN=ваш_токен_от_botfather
 WEATHER_KEY=ваш_ключ_от_openweather
-4. Запустите бота:
+
+6. Запустите бота:
     python main.py
