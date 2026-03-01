@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/твой_логин/weather-bot.git](https://github.com/твой_логин/weather-bot.git)
+   [git clone [https://github.com/твой_логин/weather-bot.git](https://github.com/твой_логин/weather-bot.git)](https://github.com/Alexey77V/Weather_BOT_Telebot.git)
 2. Установите зависимости:
     pip install -r requirements.txt
    
