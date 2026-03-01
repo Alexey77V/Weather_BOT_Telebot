@@ -22,9 +22,11 @@
 2. Установите зависимости:
     pip install -r requirements.txt
    
+   
 4. Создайте файл .env в корневой папке и добавьте свои ключи:
     BOT_TOKEN=ваш_токен_от_botfather
 WEATHER_KEY=ваш_ключ_от_openweather
+
 
 6. Запустите бота:
     python main.py
